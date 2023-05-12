@@ -1,0 +1,17 @@
+.brand-logo img{
+    object-fit: cover;
+    width: 220px;
+}
+.navbardata{
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.navbardata ul{
+    width: 100%;
+    
+}
+.navbardata h1{
+    font-size: 30px;
+}
